@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-# whoami
-I am a Ph.D. student at the [University of Virginia](http://www.virginia.edu). My research focus, and the focus of [our group led by Dr. Jonathan Goodall](https://uvahydroinformatics.org), is on hydroinformatics. In my mind, hydroinformatics is the intersection of computer science, data science, and water resources engineering. I love studying hydroinformatics because I am passionate about computer programming and about better understanding and addressing water resources challenges. 
+# Who am I?
+My academic mission statement:
+> **To improve lives by solving water-related challenges through research, mentoring, teaching, and community outreach**
+
+I am currently a Ph.D. student at the [University of Virginia](http://www.virginia.edu). My research focus, and the focus of [our group, led by Dr. Jonathan Goodall](https://uvahydroinformatics.org), is on hydroinformatics. In my mind, hydroinformatics is the intersection of computer science, data science, and water resources engineering. I love studying hydroinformatics because I am passionate about computer programming and about better understanding and addressing water resources challenges. 
 
 <img src="/assets/hydroinformatics.png" width="300" height="250"/>
 
