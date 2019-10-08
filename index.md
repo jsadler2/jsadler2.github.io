@@ -2,15 +2,11 @@
 layout: default
 ---
 ## Who am I?
-### My academic mission statement:
-> **To improve lives by solving water-related challenges through research, mentoring, teaching, and community outreach**
 
-I am currently a Ph.D. student at the [University of Virginia](http://www.virginia.edu). My research focus, and the focus of [our group, led by Dr. Jonathan Goodall](https://uvahydroinformatics.org), is on hydroinformatics. In my mind, hydroinformatics is the intersection of computer science, data science, and water resources engineering. I love studying hydroinformatics because I am passionate about computer programming and about better understanding and addressing water resources challenges. 
+I am currently a Mendenhall Postdoctoral Fellow in the Data Science Branch of the [U.S. Geological Survey](http://www.usgs.gov). My research focus is on machine learning for water resource modeling. 
 
-<img src="/assets/hydroinformatics.png" width="300" height="250"/>
+### My background
+I completed my BS and MS degrees at [Brigham Young University](https://www.byu.edu) in Provo, Utah. With Dr. Dan Ames as my adviser, I worked on research centered on data standards during my MS degree. As a Ph.D. student, I studied crowd-sourced datasets, machine learning models, and active stormwater systems to address coastal, urban flooding. 
 
-### [My academic journey](./map.html)
-I completed my BS and MS degrees at [Brigham Young University](https://www.byu.edu) in Provo, Utah. With Dr. Dan Ames as my adviser, I worked on research centered on data standards during my MS degree. As a Ph.D. student, my focus has been on emerging datasets (i.e., citizen science and crowd-sourced), models (i.e., machine learning models), and approaches (i.e., active stormwater systems) to address water resources challenges, especially coastal, urban flooding. 
-
-### [My family](./fam.html)
-I really enjoy academia -- the opportunities to learn and teach are awesome. That said, the prime environment for my learning and teaching has been with my family. 
+### My family
+I really enjoy my research -- I love learning new things. That said, the prime environment for my learning and teaching has been with my family. 
