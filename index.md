@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-## Who am I?
 
 I am currently a Mendenhall Postdoctoral Fellow in the Data Science Branch of the [U.S. Geological Survey](http://www.usgs.gov). My research focus is on machine learning for water resource modeling. 
 
