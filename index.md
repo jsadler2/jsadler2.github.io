@@ -11,4 +11,4 @@ I completed my BS and MS degrees at [Brigham Young University](https://www.byu.e
 I really enjoy my research -- I love learning new things. That said, the prime environment for my learning and teaching has been with my family. 
 
 ### Other interests
-I also love to play frisbee, ride my bike (esp. with my family), be outside in general, and bake bread and pizza.
+I love to play frisbee, ride my bike (esp. with my family), be outside in general, and bake bread and pizza.
